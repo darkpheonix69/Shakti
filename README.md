@@ -27,5 +27,6 @@ widrsx-backend/
 │── main.py            # Python Wi-Fi sniffer & detection engine
 │── api_server.py      # Flask API server
 │── config.yaml        # Configuration file
+_----------------------------------------------------------------After Activate its Virtual Enviorment Only Run Bash Script And SEE Magic_----------------------------
 │── logs/              # Encrypted log storage
 │── run.sh             # Startup script (builds + runs backend)
